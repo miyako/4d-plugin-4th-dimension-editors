@@ -21,4 +21,4 @@ Should be compatible with v11 and later.
 
 Compiled for Mac i386 (32/64 bits), Windows (32/64 bits).
 
-For PPC version please compiled from source.
+For PPC version please compile from source.
