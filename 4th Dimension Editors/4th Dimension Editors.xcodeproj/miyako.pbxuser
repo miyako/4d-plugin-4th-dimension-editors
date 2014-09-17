@@ -1,0 +1,241 @@
+// !$*UTF8*$!
+{
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Deployment;
+		activeExecutable = D118B93219C910B300CB8EA1 /* v12 */;
+		activeTarget = 8D01CCC60486CAD60068D4B7 /* 4th Dimension Editors */;
+		breakpoints = (
+		);
+		codeSenseManager = D118B92419C9107600CB8EA1 /* Code sense */;
+		executables = (
+			D118B93219C910B300CB8EA1 /* v12 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					244,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					356,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					316,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 432608799;
+			PBXWorkspaceStateSaveDate = 432608799;
+		};
+		perUserProjectItems = {
+			D118B92719C9109800CB8EA1 /* PBXTextBookmark */ = D118B92719C9109800CB8EA1 /* PBXTextBookmark */;
+			D118B94F19C9118800CB8EA1 /* PlistBookmark */ = D118B94F19C9118800CB8EA1 /* PlistBookmark */;
+			D1C04F4819C9166400EB052B /* PlistBookmark */ = D1C04F4819C9166400EB052B /* PlistBookmark */;
+		};
+		sourceControlManager = D118B92319C9107600CB8EA1 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	089C167EFE841241C02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {600, 704}}";
+			sepNavSelRange = "{202, 0}";
+			sepNavVisRange = "{0, 206}";
+			sepNavWindowFrame = "{{15, 46}, {645, 832}}";
+		};
+	};
+	18B684EE06944F2000CC6A1E /* 4DPluginAPI.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1006, 105209}}";
+			sepNavSelRange = "{89101, 0}";
+			sepNavVisRange = "{152014, 1006}";
+			sepNavWindowFrame = "{{456, -55}, {994, 832}}";
+		};
+	};
+	18B684F406944F2000CC6A1E /* PublicTypes.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {935, 13975}}";
+			sepNavSelRange = "{13718, 10}";
+			sepNavVisRange = "{12810, 1816}";
+			sepNavWindowFrame = "{{15, 46}, {994, 832}}";
+		};
+	};
+	18B684FE06944F8800CC6A1E /* 4DPlugin.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {607, 754}}";
+			sepNavSelRange = "{1251, 0}";
+			sepNavVisRange = "{104, 1151}";
+			sepNavWindowFrame = "{{778, 46}, {645, 832}}";
+		};
+	};
+	8D01CCC60486CAD60068D4B7 /* 4th Dimension Editors */ = {
+		activeExec = 0;
+	};
+	8D01CCD10486CAD60068D4B7 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 46}, {645, 832}}";
+		};
+	};
+	D118B92319C9107600CB8EA1 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	D118B92419C9107600CB8EA1 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	D118B92719C9109800CB8EA1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C167EFE841241C02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 193;
+		vrLoc = 0;
+	};
+	D118B93219C910B300CB8EA1 /* v12 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+			"PBXLSLaunchAction-0" = {
+				PBXLSLaunchAction = 0;
+				PBXLSLaunchStartAction = 1;
+				PBXLSLaunchStdioStyle = 2;
+				PBXLSLaunchStyle = 0;
+				class = PBXLSRunLaunchConfig;
+				commandLineArgs = (
+				);
+				displayName = "ランナーを有効にする";
+				environment = {
+				};
+				identifier = com.apple.Xcode.launch.runConfig;
+				remoteHostInfo = "";
+				startActionInfo = "";
+			};
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		launchableReference = D118B93319C910B300CB8EA1 /* 4D.app */;
+		libgmallocEnabled = 0;
+		name = v12;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	D118B93319C910B300CB8EA1 /* 4D.app */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = wrapper.application;
+		name = 4D.app;
+		path = /Applications/4D/12.6/4D.app;
+		sourceTree = "<absolute>";
+	};
+	D118B94F19C9118800CB8EA1 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D01CCD10486CAD60068D4B7 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/miyako/Desktop/4th Dimension Editors/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	D1392DD313582164004911A5 /* C_PICTURE.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {935, 5148}}";
+			sepNavSelRange = "{3709, 0}";
+			sepNavVisRange = "{3051, 1055}";
+			sepNavWindowFrame = "{{478, 46}, {994, 832}}";
+		};
+	};
+	D1392DD413582164004911A5 /* C_PICTURE.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {935, 1391}}";
+			sepNavSelRange = "{1398, 53}";
+			sepNavVisRange = "{904, 1014}";
+			sepNavWindowFrame = "{{449, -5}, {994, 832}}";
+		};
+	};
+	D1C04F4819C9166400EB052B /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D01CCD10486CAD60068D4B7 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/miyako/Desktop/4th Dimension Editors/Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+}
